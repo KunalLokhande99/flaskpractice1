@@ -32,13 +32,3 @@ print(__name__)
 if __name__ == '__main__':
     app.run()
 
-
-
-
-
-# json code required for postman
-#{
-#"operation" : "multiply",
-#"number1" : 100,
-#"number2" : 20
-#}
